@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">ZAINAB MARHOON</h1>
 
-<!--
-**zainabmarrhoon/zainabmarrhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ Information Systems . Software Engineer  · Full-Stack Development
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  BSc. Information Systems · University of Bahrain · Bahrain
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Overview
+
+I am a Software Engineer and Information Systems graduate from the University of Bahrain, with strong programming skills in Flutter, Firebase, HTML, CSS, PHP, and Java. Experienced in developing interactive web and mobile applications with a focus on usability and efficiency. Skilled in system design, including DFD and ERD, and database management using SQL, MySQL, and Power BI. Committed to continuous learning and delivering innovative, high-quality digital solutions.
+
+
+## Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,php,java,js,react,nodejs,express,mongodb,mysql,git,github" />
+</p>
